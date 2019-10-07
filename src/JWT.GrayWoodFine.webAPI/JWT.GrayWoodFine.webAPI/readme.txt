@@ -1,4 +1,4 @@
-This api only generates and jwt but not authenticate
+This api only generates jwt but not authenticate
 
 1) Add token settings in appsettings.json and configure it in startup.cs (Step 1 - Code Snippet)
 2) Add jwt authentication options (Step 2 Code Snippet - Startup.css)
